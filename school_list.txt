@@ -1,2 +1,4 @@
 
 1,Astemir,Biologie,1.000000,Chemie,2.000000,DE,4.000000
+2,Diana,Biologie,3.000000,Mathe,2.000000,DE,4.000000
+3,Ben,Biologie,3.000000,Mathe,1.000000,DE,4.000000
